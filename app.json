@@ -1,8 +1,8 @@
 {
-  "name": "KHAN-MD",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
+  "name": "Zannie",
+  "description": "Don't fuck with Zannie",
   "logo": "https://files.catbox.moe/neni8p.jpg",
-  "keywords": ["KHAN-MD"],
+  "keywords": ["Zannie"],
   "success_url": "/",
 
   "stack": "container",
@@ -16,8 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "KHAN-MD"
-    }, 
+      "value": "Zapublic    }, 
       
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
@@ -28,7 +27,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
 
     "ALWAYS_ONLINE": {
