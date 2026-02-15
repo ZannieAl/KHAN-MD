@@ -16,7 +16,8 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "Zapublic    }, 
+      "value": "Zannie" 
+    }, 
       
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
